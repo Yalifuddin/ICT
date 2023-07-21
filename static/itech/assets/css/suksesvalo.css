@@ -1,0 +1,19 @@
+.bg-img {
+  background-image: url(bg-2.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100%;
+}
+
+.container {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: 25px;
+  color: white;
+}
